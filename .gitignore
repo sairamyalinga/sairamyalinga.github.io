@@ -1,0 +1,8 @@
+/resources/
+/.idea/
+*.aux
+*.log
+*.out
+*.synctex.gz
+.hugo_build.lock
+.DS_Store
