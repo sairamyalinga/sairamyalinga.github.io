@@ -17,8 +17,9 @@ paginate     = 10
     logoCursorPathname = true
 
  [params.portrait]
-    path = "static/img/IMG_20201211_171004.jpeg"
+    path = "/img/IMG_20201211_171004.jpeg"
     alt  = "Portrait"
+    maxWidth = "180px"
 
 # Subtitle for home
 homeSubtitle = "A simple and beautiful blog"
@@ -58,13 +59,22 @@ series   = "series"
   identifier = "about"
   name       = "About"
   url        = "about/"
+  weight     =  1
 [[menu.main]]
-  identifier = "posts"
-  name       = "Posts"
-  url        = "posts/"
+  identifier = "projects"
+  name       = "Projects"
+  url        = "projects/"
+  weight     = 2
+
 [[menu.main]]
   identifier = "resume"
   name       = "Resume"
   url        = "/resume"
+   weight     = 3
   [[menu.main.params]]
     target     = "_blank"
+[[menu.main]]
+  identifier = "posts"
+  name       = "Posts"
+  url        = "posts/"
+   weight     = 4
