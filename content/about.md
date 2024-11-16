@@ -3,14 +3,17 @@ title = 'About'
 date = 2024-01-05T19:47:00-07:00
 draft = false
 +++
-Hi there!
+Hey there,
 
-Thank you for your interest in learning more about me :)
+Thanks for stopping by!
 
-I'm Sai Ramya Linga, an enthusiastic engineer pursuing a master's degree in computer engineering at Arizona State University, set to graduate in May 2024. Having earned my B.Tech in Electronics and Communication Engineering from Shri Vishnu Engineering College for Women in 2021, I discovered my passion for programming during my coursework on "Programming with C" in my first year which sparked my interest in learning different languages and technologies through our college WISE (Women in Software Engineering) program.
+I'm Sai Ramya Linga! I graduated with a Master's in Computer Engineering from Arizona State University. My journey in tech began during my undergrad at Shri Vishnu Engineering College, where a "Programming with C" course unexpectedly ignited my passion for coding. Thanks to the WISE (Women in Software Engineering) program, I got hands-on experience exploring different languages and technologies.
 
-My journey began as a Graduate Engineer Trainee intern at L&T Technology Services in my final year of B.Tech. Subsequently, I joined Tata Consultancy Services as a Systems Engineer, where I gained valuable experience over a year. This professional background has fueled my enthusiasm for software development, ultimately leading me to pursue advanced studies and work on cool projects.
+I started my professional career as a Software Engineer Intern at L&T Technology Services, followed by a role as a Software Engineer at Tata Consultancy Services. These experiences laid a strong foundation in software development and sparked my interest in building impactful solutions.
 
-In my free time, you'll find me engrossed in fictional books, petting dogs and cats, tending to my plants, or pondering over recipes that I may never actually cook 😉.
+Now, I'm diving deep into full-stack development as a Software Developer at InternPro.ai. Here, I’ve been working on building out key features, enhancing our product's capabilities, and exploring ways to make the platform smarter and more user-friendly.
 
-Feel free to explore my portfolio for a deeper dive into my skills, projects, and aspirations. I look forward to connecting and exploring potential opportunities together. You can drop me an email at sairamyalinga@gmail.com!
+
+When I'm not busy geeking out over the latest tech trends or working on exciting projects, you'll find me lost in a fictional universe, befriending every dog and cat I meet, attempting to keep my plants alive (with varying success), or ambitiously bookmarking recipes I might never actually cook (Did i mention I love baking too??). 🍰😄
+
+Feel free to explore my portfolio for a deeper dive into my skills, projects, and aspirations. I’m always open to connecting and discussing potential opportunities. You can reach out to me at  sairamyalinga@gmail.com!
