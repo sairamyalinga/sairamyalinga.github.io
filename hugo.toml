@@ -1,5 +1,5 @@
 baseurl      = "localhost"
-title        = "Portfolio"
+title        = "Sai Ramya Linga"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
