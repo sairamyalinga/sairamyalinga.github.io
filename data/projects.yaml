@@ -1,0 +1,42 @@
+projects:
+  - title: "Serendip"
+    description: "A tool to visualize and analyze subreddit India's data using TypeScript, D3.js."
+    tech_stack: ["TypeScript", "React", "D3.js", "Material UI","BERTopic"]
+    features:
+      - "Topics derived from NLP-based BERTopic, an advanced topic modeling algorithm."
+      - "Six interactive visualizations: Corpus view, Text view, Rank view, Radar view, Circular packing view, built using the D3.js library."
+    demo_link: "https://serendip.vercel.app/"
+
+  - title: "Image Prediction Application"
+    description: "A multi-tier application for concurrent image processing using AWS services like Lambda, S3, and DynamoDB."
+    tech_stack: ["AWS", "Go", "Python", "Docker"]
+    features:
+      - "Processes 100 images in under 5 minutes."
+      - "Dynamic scaling for efficient processing."
+      - "Event-driven architecture with SQS and Lambda."
+
+  - title: "URL Shortener Service"
+    description: "A scalable URL shortener service with Go backend and React frontend."
+    tech_stack: ["Go", "React", "MongoDB", "Digital Ocean", "Docker"]
+    features: 
+      - "Shorten long URLs and redirect users."
+      - "JWT Authentication and user-friendly interface for managing URLs."
+      - "Secure API integration for URL validation."
+    github_link: "https://github.com/sairamyalinga/url-shortener-react-go"
+
+  - title: "Recipe Management System"
+    description: "A full-stack application for managing recipes with CRUD functionality, built using Django and React."
+    tech_stack: ["Django", "React", "SQLite", "MUI", "Tailwind CSS"]
+    features:
+      - "Create, view, update, and delete recipes."
+      - "Modern UI with responsive design."
+      - "Card-based recipe display."
+    github_link: "https://github.com/sairamyalinga/react-django-app"
+
+  - title: "Task Management System"
+    description: "A task management system with CRUD functionality and CI/CD pipeline for automated deployment."
+    tech_stack: ["Node.js", "MongoDB", "Nginx", "Digital Ocean", "Docker"]
+    features:
+      - "Add, delete, and mark tasks as done."
+      - "Built a CI/CD pipeline and deployed the Docker image to Digital Ocean."
+    github_link: "https://github.com/sairamyalinga/todo-app"

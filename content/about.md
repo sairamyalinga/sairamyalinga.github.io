@@ -5,7 +5,7 @@ draft = false
 +++
 Hey there,
 
-Thanks for stopping by!
+Glad you stopped by!!
 
 I'm Sai Ramya Linga! I graduated with a Master's in Computer Engineering from Arizona State University. My journey in tech began during my undergrad at Shri Vishnu Engineering College, where a "Programming with C" course unexpectedly ignited my passion for coding. Thanks to the WISE (Women in Software Engineering) program, I got hands-on experience exploring different languages and technologies.
 
