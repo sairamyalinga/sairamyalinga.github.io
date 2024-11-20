@@ -66,13 +66,6 @@ url = "https://t.me/sairamyalinga"
    weight     = 3
   [[menu.main.params]]
     target     = "_blank"
-[[menu.main]]
-  identifier = "TIL"
-  name       = "TIL"
-  url        = "posts/"
-   weight     = 4
-
-
 
 
 
