@@ -9,7 +9,7 @@ Glad you stopped by!
 
 I’m Sai Ramya Linga, a Software Developer at InternPro.ai, where I focus on full-stack development to create innovative features, enhance product capabilities, and make the platform smarter and more user-friendly. With every project, I aim to deliver solutions that prioritize functionality and user experience.
 
-Before stepping into my current role, I laid a strong foundation in software development through diverse experiences. I began my career as a Software Engineer Intern at L&T Technology Services, and later as a Software Engineer at Tata Consultancy Services. These positions taught me the importance of problem-solving, teamwork, and building scalable software solutions.
+Before stepping into my current role, I laid a strong foundation in software development through diverse experiences. I began my career as a Software Engineer Intern at L&T Technology Services, and later  worked as a Software Engineer at Tata Consultancy Services. These positions taught me the importance of problem-solving, teamwork, and building scalable software solutions.
 
 My passion for technology began during a transformative moment in a "Programming with C" course, which unexpectedly introduced me to the world of coding. This journey took shape further with hands-on exposure in the WISE (Women in Software Engineering) program during my undergraduate studies. Later, I pursued my Master’s in Computer Engineering at Arizona State University, where I deepened my technical expertise and worked on multiple cool projects.
 
