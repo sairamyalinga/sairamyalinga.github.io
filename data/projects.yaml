@@ -40,3 +40,12 @@ projects:
       - "Add, delete, and mark tasks as done."
       - "Built a CI/CD pipeline and deployed the Docker image to Digital Ocean."
     github_link: "https://github.com/sairamyalinga/todo-app"
+
+  - title: "Face Object Recogniser"
+    description: "An assistive device for visually challenged people to identify people and objects in their surroundings."
+    tech_stack: ["Python", "Machine Learning", "LBPH Algorithm", "Raspberry Pi"]
+    features:
+      - "It helps in identifying the faces and objects within 50 cm radius."
+      - "Built using a Raspberry Pi processor and Python libraries such as NumPy and OpenCV."
+    
+
