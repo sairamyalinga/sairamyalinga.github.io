@@ -18,6 +18,7 @@ name = "Sai Ramya Linga"
   profileImage  = "https://avatars.githubusercontent.com/u/67336902?s=400&u=a5852f995e105283e319cd0a08d1d6679ca3c0fb&v=4"
   defaultTheme = "light"
   themeColor = "#252627"
+  googleAnalytics = "G-6YM9DTLGW0"
 
 
  [params.logo]
