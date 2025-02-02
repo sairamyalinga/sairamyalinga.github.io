@@ -7,9 +7,7 @@ Hey there,
 
 Glad you stopped by!
 
-I’m Sai Ramya Linga, a Software Developer at InternPro.ai where I focus on full-stack development, prioritizing user experience and enhancing product capabilities.
-
-Before my current role, I gained diverse experience as a Software Engineer at L&T Technology Services and later at Tata Consultancy Services. 
+I’m Sai Ramya Linga, a Software Developer at Amazon. Before my current role, I had experience as a Software Engineer at L&T Technology Services, Tata Consultancy Services, and later at InternPro.ai. 
 
 My passion for technology began during my bachelor’s degree in Electronics and Communication Engineering, when a “Programming with C” course opened the doors to the world of coding. This passion grew further through the WISE program at my college, where I gained hands-on exposure to software development. I later earned my Master’s in Computer Engineering from Arizona State University, which allowed me to deepen my expertise and work on impactful projects.
 
